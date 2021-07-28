@@ -23,22 +23,22 @@ import os
 DEFAULT_LANG = 'ja'
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+ADMIN_ACCOUNT = "tang.misi@eyefocuscoltd"
+DOMAIN_ID = 12044709
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "jp2coXzwMWKbb"
+SERVER_CONSUMER_KEY = "kppdQXP5FDIZp73IolYs"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "ff01ff129c9541629e957f8d7bba7566"
+SECRET_KEY_NAME = "private_20210728153958.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://ifocus-sample-faq-bot.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-35-174-56-18.compute-1.amazonaws.com"
+DB_NAME = "d434jov57qhbn8"
+DB_USER = "chkcpmuumqxnob"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "c16a71073f0d5fab214b776dbf3ccec1e708106ae458f2f19b1074060c97ac30"
